@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{BED3D71C-2B9D-4FE0-A737-CCEB10D3F82C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../more-bitmaps/more-bitmaps/Program.cs">
+    <Files>
+      <File FileName="../../../../more-bitmaps/more-bitmaps/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShufflePicture" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShufflePicture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

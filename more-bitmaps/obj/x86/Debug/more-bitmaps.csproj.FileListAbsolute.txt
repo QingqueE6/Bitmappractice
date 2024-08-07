@@ -1,0 +1,6 @@
+/home/firefly/Coding/more-bitmaps/more-bitmaps/bin/Debug/more-bitmaps.exe
+/home/firefly/Coding/more-bitmaps/more-bitmaps/bin/Debug/more-bitmaps.pdb
+/home/firefly/Coding/more-bitmaps/more-bitmaps/obj/x86/Debug/more-bitmaps.csproj.AssemblyReference.cache
+/home/firefly/Coding/more-bitmaps/more-bitmaps/obj/x86/Debug/more-bitmaps.csproj.CoreCompileInputs.cache
+/home/firefly/Coding/more-bitmaps/more-bitmaps/obj/x86/Debug/more-bitmaps.exe
+/home/firefly/Coding/more-bitmaps/more-bitmaps/obj/x86/Debug/more-bitmaps.pdb

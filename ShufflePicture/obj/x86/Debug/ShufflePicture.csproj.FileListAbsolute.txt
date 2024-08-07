@@ -1,0 +1,6 @@
+/home/firefly/Coding/Bitmaps/ShufflePicture/ShufflePicture/ShufflePicture/bin/Debug/ShufflePicture.exe
+/home/firefly/Coding/Bitmaps/ShufflePicture/ShufflePicture/ShufflePicture/bin/Debug/ShufflePicture.pdb
+/home/firefly/Coding/Bitmaps/ShufflePicture/ShufflePicture/ShufflePicture/obj/x86/Debug/ShufflePicture.csproj.AssemblyReference.cache
+/home/firefly/Coding/Bitmaps/ShufflePicture/ShufflePicture/ShufflePicture/obj/x86/Debug/ShufflePicture.csproj.CoreCompileInputs.cache
+/home/firefly/Coding/Bitmaps/ShufflePicture/ShufflePicture/ShufflePicture/obj/x86/Debug/ShufflePicture.exe
+/home/firefly/Coding/Bitmaps/ShufflePicture/ShufflePicture/ShufflePicture/obj/x86/Debug/ShufflePicture.pdb
