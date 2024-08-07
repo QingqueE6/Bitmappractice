@@ -1,1 +1,1 @@
-# Bitmappractice
+# Bitmap practice
